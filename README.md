@@ -1,4 +1,4 @@
-# [Telegra.ph Bot](https://t.me/hk_telegraph_bot)
+# [SL IMAGE TO Telegra.ph Bot](http://t.me/slimagetotelegraphbot)
 
 
 #### Requirements
