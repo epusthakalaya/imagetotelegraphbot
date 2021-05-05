@@ -23,14 +23,14 @@ logger.setLevel(logging.INFO)
 def start_cmd(update, context):
     update.message.reply_text(f"Hello {update.message.from_user.first_name}.\n\nI can upload photos from telegram to telegra.ph 🤫 Now send me a picture.")
     update.message.reply_text="""<b>Hey There, I'm SL IMAGE TO TELEGRAPH BOT. 
-I can upload photos or videos to telegraph. Made by @ImJanindu 🇱🇰
+I can upload photos or videos to telegraph. Made by @Madushanka_bro 🇱🇰
 Hit help button to find out more about how to use me</b>""",   
                             reply_markup=InlineKeyboardMarkup(
                                 [[
                                         InlineKeyboardButton(
-                                            "DEVELOPER", url="https://t.me/M_ADU"),
+                                            "DEVELOPER", url="https://t.me/Madushanka_bro"),
                                         InlineKeyboardButton(
-                                            "Channel", url="https://t.me/e_pusthakalaya")
+                                            "Channel", url="https://t.me/epusthakalaya_bots")
                                     ]
                             ),        
 
